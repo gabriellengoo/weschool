@@ -1,3 +1,9 @@
+const http = require('http');
+
+const hostname = '0.0.0.0';
+const port = 3000;
+
+
 class Game{
 	constructor(){
 		if ( ! Detector.webgl ) Detector.addGetWebGLMessage();
