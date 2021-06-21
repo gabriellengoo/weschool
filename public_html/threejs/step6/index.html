@@ -1,30 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>THREE.js tutorial - step 6</title>
+		<title>WeSchool class of 3020</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
         <style>
             body{ margin: 0; }
         </style>
-        
+		
+		<link rel= "stylesheet" href="css/styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+        <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+
+		 <!-- logo ----------------->
+		 <link rel='icon' href='./logo.ico' type='image/x-icon' />
+
+		 <!-- fonts ----------------->
+		 <link rel="stylesheet" href="https://use.typekit.net/sqp6fuj.css">
+		
 	</head>
 
-	<body>
-		<script src="../../libs/three.min.js"></script>
-		<script src="../../libs/inflate.min.js"></script>
-		<script src="../../libs/FBXLoader.js"></script>
-		<script src="../../libs/OrbitControls.js"></script>
-		<script src="../../libs/Detector.js"></script>
-		<script src="../../libs/toon3d.js"></script>
-		<script src="game.js"></script>
-		<script>
-			document.addEventListener("DOMContentLoaded", function(){
-				const game = new Game();
-				window.game = game;//For debugging only
-			});
-		</script>
-	</body>
+	
+<body>
+
+
+	<div id="mydiv">
+        <!-- Include a header DIV with the same name as the draggable DIV, followed by "header" -->
+        <div id="mydivheader">Lesson in process</div>
+        <p ><br>Hey Lily, Your Current lesson is Math<br>compleate task around to leave the lesson , be sure to select your ID card to register your presence</p>
+        
+      </div>
+
+	  <a href="./p5/index.html">
+	  <img id="idcard" src="./id card.png" alt="idcard" width="500" height="600">
+	</a>
+
+
+<!-- <video id="video"></video> -->
+	<!-- <h1>Current lesson : Math</h1> -->
+
+	<script src="../../libs/three.min.js"></script>
+	<script src="../../libs/inflate.min.js"></script>
+	<script src="../../libs/FBXLoader.js"></script>
+	<script src="../../libs/OrbitControls.js"></script>
+	<script src="../../libs/Detector.js"></script>
+	<script src="../../libs/toon3d.js"></script>
+	<script src="script.js"></script>
+	<script src="game.js"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			const game = new Game();
+			window.game = game; //For debugging only
+		});
+	</script>
+
+
+<!-- 
+<section id="loading-screen">
+
+	<div id="loader"></div>
+
+</section> -->
+
+
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r74/three.min.js"></script> -->
+</body>
+
 </html>
 
 
