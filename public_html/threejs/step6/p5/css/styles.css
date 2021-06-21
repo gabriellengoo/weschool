@@ -37,21 +37,21 @@
   }
   h1 {
     font-size: 24px;
-    line-height: 29px;
+    /* line-height: 29px; */
     font-weight: 400;
     font-style: normal;
-      position: absolute;
+      /* position: absolute; */
       z-index: 9;
       fill: #757575;
       /* border: 1.5px solid #1b1b1b; */
       /* color: transparent; */
        text-shadow: 0 0 0px #1b1b1b;
       border-radius: 35px;
-      font-family: steps-mono;
+      font-family:  "Barlow", sans-serif;
       font-weight: 400;
       font-style: normal;
       font-size: 20px;
-      line-height: 150px;
+      line-height: 120px;
       text-align: center;
       text-transform: uppercase;
       /* line-height: 20px; */

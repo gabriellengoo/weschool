@@ -65,19 +65,19 @@ h1 {
     font-weight: 400;
 font-style: normal;
     font-size: 14px;
-line-height: 20px;
+/* line-height: 20px; */
     position: absolute;
     z-index: 1;
-    fill: #757575;
+    /* fill: #3a3a3a; */
     /* border: 1.5px solid #1b1b1b; */
     /* color: transparent; */
      text-shadow: 0 0 0px #1b1b1b;
     border-radius: 35px;
-    font-family: steps-mono;
+    font-family: "Barlow", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 20px;
-    line-height: 53px;
+    line-height: 43px;
     text-align: center;
     text-transform: uppercase;
     /* line-height: 20px; */
@@ -86,10 +86,18 @@ line-height: 20px;
     height: 220px;
     overflow: scroll;
     background-image: linear-gradient(330deg, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.1));
-    /* filter: blur(2px); */
-    box-shadow: 0 0 60px 5px  #0ff;
+    /* filter: blur(10px); */
+    box-shadow: 0 0 60px 5px  rgb(209, 209, 209);
     padding: .5%;
+    transition: 2s;
 }
+
+#mydiv:hover{
+      /* background-image: linear-gradient(330deg, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.1)); */
+transition: 2s;
+box-shadow: 0 0 60px 5px  #0ff;
+}
+
   
 #mydiv::-webkit-scrollbar {
     display: none;
@@ -105,7 +113,7 @@ line-height: 20px;
 border: 1.5px solid #1b1b1b;
     color: transparent;
      text-shadow: 0 0 0px #1b1b1b;
-    /* padding: 10px; */
+    padding: 10px;
     cursor: move;
     z-index: 1;
     /* font-family: Neuebit, sans-serif; */
