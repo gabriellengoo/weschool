@@ -13,7 +13,7 @@ Here is a video of it just in case you want to see it!:
 https://vimeo.com/568407484
 
 ---
-All videos for this project and failed test are also at https://vimeo.com/manage/videos
+All videos for this project and failed test are also at https://vimeo.com/user108969270
 
 Hope your doing well!!!
 If you have instagram follow me https://www.instagram.com/is_this_gabrielle/ 
