@@ -6,7 +6,7 @@ Interactive multiplayer platform alternative way to have lessons and interact on
 (¯`*•.¸,¤°´✿.｡.:* 𝓗𝐄ｌ𝓁ᵒ *.:｡.✿`°¤,¸.•*´¯) THIS WILL BE UPDATED AFTER THE GRADES COME IN (¯`*•.¸,¤°´✿.｡.:* 𝓗𝐄ｌ𝓁ᵒ *.:｡.✿`°¤,¸.•*´¯)
 Hi Indira!! 🙋‍♀️
 
-Here is the files to my interactive school. 
+Here are the files to my interactive school. 
 
 I have added the extra pages /i.e a landing ID Card select and another interactive page so it looks more unique and differs from Molly's (as asked by Vali)/
 Here is a video of it just in case you want to see it!:
