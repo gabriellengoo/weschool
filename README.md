@@ -1,5 +1,5 @@
 # weschool
-Interactive multiplayer platform alternative way to have lessons and interact online. But exploring this through a comic light
+Interactive multiplayer platform alternative way to have lessons and interact online. But exploring this through a comedic light
 
 
 
